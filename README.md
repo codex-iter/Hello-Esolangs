@@ -26,7 +26,7 @@ This repo includes *Hello World* programs written in some of these languages. As
 ## Running the codes:
 
 
-Online compiler for most of given languages can be found [here](https://www.jdoodle.com)
+Online compiler for most of given languages can be found [here](https://tio.run/#)
 
 
 ## Open to Contributions:
