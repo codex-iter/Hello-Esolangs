@@ -7,3 +7,6 @@
 - Add screenshots of the code and output in the README
 - Add plenty of comments
 - If you want to add a program other than hello world, appropriately name it so.
+- **Add relevant details about the language so that others can follow it**
+  - This includes wikipedia links or the languages' official page and documentation
+ 
