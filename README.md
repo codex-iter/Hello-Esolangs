@@ -25,13 +25,14 @@ This repo includes *Hello World* programs written in some of these languages. As
 
 ## Running the codes:
 
-
 Online compiler for most of given languages can be found [here](https://tio.run/#)
 
 
 ## Open to Contributions:
 
 You can contribute to the repos by adding a better version for the provided esolangs or a Hello world for any other Esolang not already included.
+
+Check out the contribution guidelines in [Contribution.md](./Contribution.md)
 
 
 
