@@ -10,4 +10,4 @@ Hence, don't try to run it in Nodejs. It simply won't work. Open the `index.html
 
 Screenshot :
 
-![Screenshot](https://github.com/rishichawda/Hello-Esolangs/blob/jsfuck/JSFuck/Screenshot%202018-11-05%20at%204.03.59%20AM.png)
+![Screenshot](https://github.com/codex-iter/Hello-Esolangs/blob/master/JSFuck/Screenshot%202018-11-05%20at%204.03.59%20AM.png)
