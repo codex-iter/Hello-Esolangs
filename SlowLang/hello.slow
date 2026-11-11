@@ -1,0 +1,17 @@
+# SlowLang hello world.
+# The interpreter demands a please() call at random 3-7 line intervals,
+# so polite programs sprinkle them in. Lazy mode may refuse this run
+# (~10% chance) - that is a feature, not a bug.
+
+please()
+
+print("Hello, world!")  # executes as Python under the hood
+
+please()
+
+for i in range(3):
+    print(i)  # counting slowly, as is proper
+
+please()
+
+print("Done! The turtle is pleased.")
